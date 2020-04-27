@@ -2,6 +2,9 @@ import React from "react";
 import Card from './Card';
 
 
+// This is pure function 
+// 入力（robots）が同じならいつでも結果は同じになる。
+
 const CardList = ({robots}) => {
 
   return (
