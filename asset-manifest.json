@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/learnReacrt/static/css/main.711370b0.chunk.css",
-    "main.js": "/learnReacrt/static/js/main.f27da581.chunk.js",
-    "main.js.map": "/learnReacrt/static/js/main.f27da581.chunk.js.map",
-    "runtime-main.js": "/learnReacrt/static/js/runtime-main.6a68fd38.js",
-    "runtime-main.js.map": "/learnReacrt/static/js/runtime-main.6a68fd38.js.map",
-    "static/css/2.66b7f74f.chunk.css": "/learnReacrt/static/css/2.66b7f74f.chunk.css",
-    "static/js/2.2b73e027.chunk.js": "/learnReacrt/static/js/2.2b73e027.chunk.js",
-    "static/js/2.2b73e027.chunk.js.map": "/learnReacrt/static/js/2.2b73e027.chunk.js.map",
-    "index.html": "/learnReacrt/index.html",
-    "precache-manifest.45cdc27ae47afaa9e17068be7dc58dc6.js": "/learnReacrt/precache-manifest.45cdc27ae47afaa9e17068be7dc58dc6.js",
-    "service-worker.js": "/learnReacrt/service-worker.js",
-    "static/css/2.66b7f74f.chunk.css.map": "/learnReacrt/static/css/2.66b7f74f.chunk.css.map",
-    "static/css/main.711370b0.chunk.css.map": "/learnReacrt/static/css/main.711370b0.chunk.css.map",
-    "static/js/2.2b73e027.chunk.js.LICENSE.txt": "/learnReacrt/static/js/2.2b73e027.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/learnReacrt/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/learnReact/robofriends/static/css/main.9583bfe5.chunk.css",
+    "main.js": "/learnReact/robofriends/static/js/main.96e7839b.chunk.js",
+    "main.js.map": "/learnReact/robofriends/static/js/main.96e7839b.chunk.js.map",
+    "runtime-main.js": "/learnReact/robofriends/static/js/runtime-main.4cadf942.js",
+    "runtime-main.js.map": "/learnReact/robofriends/static/js/runtime-main.4cadf942.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/learnReact/robofriends/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.2b73e027.chunk.js": "/learnReact/robofriends/static/js/2.2b73e027.chunk.js",
+    "static/js/2.2b73e027.chunk.js.map": "/learnReact/robofriends/static/js/2.2b73e027.chunk.js.map",
+    "index.html": "/learnReact/robofriends/index.html",
+    "precache-manifest.4ab0bd11f9319a0f70d03fe09c5f2236.js": "/learnReact/robofriends/precache-manifest.4ab0bd11f9319a0f70d03fe09c5f2236.js",
+    "service-worker.js": "/learnReact/robofriends/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/learnReact/robofriends/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.9583bfe5.chunk.css.map": "/learnReact/robofriends/static/css/main.9583bfe5.chunk.css.map",
+    "static/js/2.2b73e027.chunk.js.LICENSE.txt": "/learnReact/robofriends/static/js/2.2b73e027.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/learnReact/robofriends/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.6a68fd38.js",
+    "static/js/runtime-main.4cadf942.js",
     "static/css/2.66b7f74f.chunk.css",
     "static/js/2.2b73e027.chunk.js",
-    "static/css/main.711370b0.chunk.css",
-    "static/js/main.f27da581.chunk.js"
+    "static/css/main.9583bfe5.chunk.css",
+    "static/js/main.96e7839b.chunk.js"
   ]
 }
